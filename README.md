@@ -48,7 +48,7 @@ This project is a presentation-based training module designed to help individual
 
 ## 🖼 Preview
 
-![Preview](screenshot.png)
+![Preview](intership.pptx)
 
 ---
 
